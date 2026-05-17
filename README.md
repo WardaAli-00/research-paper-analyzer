@@ -41,7 +41,7 @@ Multimodal AI, and Biomedical topics.
 - Works on unseen papers not in original dataset
 
 ## 🖼️ Screenshots
-![Research Paper Analyzer Demo](screenshot_results.jpg)
+![Research Paper Analyzer Demo](Screenshot_results.jpg)
 
 ## 🚀 How to Run
 1. Open notebook in Google Colab
