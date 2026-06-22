@@ -5,7 +5,7 @@ and analyzes key information from any research
 paper PDF using transformer-based NLP models.
 
 ## 🔴 Live Demo
-👉 [Click here to try it live](https://1e4736adf86a18c157.gradio.live)
+👉 [Click here to try it live]([https://1e4736adf86a18c157.gradio.live](https://huggingface.co/spaces/Wardaali/research-paper-analyzer))
 
 ## 📌 What it does
 Upload any research paper PDF and instantly get:
